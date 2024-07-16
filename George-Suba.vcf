@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 13.6.7//EN
+N:Suba;George;;;
+FN:George Suba
+EMAIL;type=INTERNET;type=HOME;type=pref:gs.topfreelancer@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:+447905558282
+NOTE:macOS\, Windows Specialist & Linux Expert
+item1.URL;type=pref:https:://topfreelancer.co.uk
+item1.X-ABLabel:_$!<HomePage>!$_
+URL;type=WORK:https://uk.linkedin.com/in/georgesuba
+END:VCARD
